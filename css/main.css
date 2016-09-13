@@ -21,3 +21,8 @@ body{
 	border-radius: 4px;
 	font-style: none;
 }
+
+.img-flex{
+	border-image-width: 100%/1.3;
+}
+
