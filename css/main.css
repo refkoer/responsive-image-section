@@ -19,10 +19,11 @@ body{
 	padding-right: 0.75em;
 	padding-left: 0.75em;
 	border-radius: 4px;
-	font-style: none;
+	text-decoration: none;
+
 }
 
-.imgfles{
-	max-width: 50%
+.imgflex{
+
 }
 
