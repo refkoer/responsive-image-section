@@ -1,5 +1,11 @@
 html {
   box-sizing: border-box;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  box-sizing: border-box;
+  font: normal 100%/1.3 sans-serif;
 }
 
 *, *::before, *::after {
@@ -7,8 +13,8 @@ html {
 }
 
 body{
+	margin: 0;
 	background-color: #e2e2e2;
-	font-family: sans-serif;
 }
 
 .button{
