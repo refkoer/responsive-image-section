@@ -23,11 +23,11 @@ body{
 	background-color: #e2e2e2;
 }
 
-section{
+.section-1{
 	text-align: left;
 }
 
-.imgflex{
+.img-flex{
 	display: block;
 	width: 100%;
 }
@@ -92,7 +92,7 @@ a:hover{
   }
 
 }
-2@media only screen and (min-width: 60em) {
+@media only screen and (min-width: 60em) {
 
   html {
     font-size: 120%;
@@ -115,7 +115,7 @@ a:hover{
   }
 
   .body-copy, .image-wrapper {
-    max-width: 33.3333%;
+   	width: 33.3333%;
   }
 
   section {
